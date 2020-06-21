@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLNSACH
 {
-    public partial class Form1 : Form
+    public partial class frmdangnhap : Form
     {
-        public Form1()
+        public frmdangnhap()
         {
             InitializeComponent();
         }
